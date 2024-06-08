@@ -1,4 +1,4 @@
 # Featured Products
 
-- **Espresso Roast** - $15.99
-- **Colombian Coffee** - $12.99
+- Product 1: Description and Price
+- Product 2: Description and Price
